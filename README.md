@@ -1,6 +1,6 @@
+## Hi there 👋
 - 👋 Hi, I’m @itsashleyooi
-- 👀 I’m interested in Data Science, IOT and Web/App development
-- 🌱 I’m currently learning how to code 
+- 👀 I’m interested in Data Science, IOT and Web/App development 
 
 
 <!---
