@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m @itsashleyooi
+- 👋 Hi, I’m Ashley Ooi
 - 👀 I’m interested in Data Science, IOT and Web/App development 
 
 
