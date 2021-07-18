@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I’m Ashley Ooi
-- 👀 I’m interested in Data Science, IOT and Web/App development 
+- 👀 I’m interested in Data Science, IOT and Web/App development, Big Data, Data Mining and Travelling 
 
 
 <!---
