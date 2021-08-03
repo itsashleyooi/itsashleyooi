@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I’m Ashley Ooi
-- 🏢 A Second-year Computer Science Student, majoring in Data Science at Monash University Malaysia
+- 🏢 A second-year Computer Science Student, majoring in Data Science at Monash University Malaysia
 - 👀 I’m interested in Data Science, IOT and Web/App development, Big Data, Data Mining and Travelling 
 - 📧 Reach me by email: ashleyooiyl@gmail.com
 
