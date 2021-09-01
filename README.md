@@ -23,5 +23,5 @@
 
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> <img src="https://img.icons8.com/dotty/80/000000/sql.png" alt="r" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> <img src="https://img.icons8.com/dotty/80/000000/sql.png" alt="r" width="40" height="40"/> </a> </p>
 
