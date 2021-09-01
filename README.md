@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there 👋 I'm Ashley Ooi</h1>
-<h3 align="center">A passionate data scientist/analyst from Malaysia</h3>
+<h1 align="left">Hi there 👋 I'm Ashley Ooi</h1>
+<h3 align="left">A passionate data scientist/analyst from Malaysia</h3>
 
 <br/>
 
